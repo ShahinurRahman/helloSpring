@@ -1,0 +1,200 @@
+[INFO] logger started at Fri Feb 13 14:15:34 BDT 2015
+[INFO] executable name: C:\Users\lenovo_pc\Desktop\FDC_windows_1_0_1.exe
+[INFO] install4j version: 5.1.6 (build 5598)
+[INFO] Properties: 
+-- listing properties --
+java.runtime.name=Java(TM) SE Runtime Environment
+exe4j.moduleName=C:\Users\lenovo_pc\Desktop\FDC_window...
+sun.boot.library.path=c:\program files (x86)\java\jre6\bin
+exe4j.semaphoreName=Local\c:_users_lenovo_pc_desktop_fdc_...
+java.vm.version=20.45-b01
+java.vm.vendor=Sun Microsystems Inc.
+java.vendor.url=http://java.sun.com/
+path.separator=;
+exe4j.consoleCodepage=cp0
+java.vm.name=Java HotSpot(TM) Client VM
+file.encoding.pkg=sun.io
+user.country=US
+sun.os.patch.level=
+install4j.exeDir=C:\Users\lenovo_pc\Desktop\
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=C:\Users\LENOVO~1\AppData\Local\Temp\...
+java.runtime.version=1.6.0_45-b06
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=c:\program files (x86)\java\jre6\lib\...
+os.arch=x86
+java.io.tmpdir=C:\Users\LENOVO~1\AppData\Local\Temp\
+line.separator=
+
+java.vm.specification.vendor=Sun Microsystems Inc.
+user.variant=
+exe4j.tempDir=C:\Users\LENOVO~1\AppData\Local\Temp\...
+os.name=Windows 8
+sun.java2d.noddraw=true
+sun.jnu.encoding=Cp1252
+java.library.path=C:\Program Files (x86)\Intel\iCLS Cli...
+java.specification.name=Java Platform API Specification
+java.class.version=50.0
+sun.management.compiler=HotSpot Client Compiler
+exe4j.isInstall4j=true
+os.version=6.2
+user.home=C:\Users\lenovo_pc
+user.timezone=Asia/Dhaka
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+java.specification.version=1.6
+file.encoding=Cp1252
+user.name=lenovo_pc
+java.class.path=C:\Users\LENOVO~1\AppData\Local\Temp\...
+java.vm.specification.version=1.0
+sun.arch.data.model=32
+java.home=c:\program files (x86)\java\jre6
+sun.java.command=C:\Users\lenovo_pc\Desktop\FDC_window...
+exe4j.launchName=C:\Users\lenovo_pc\Desktop\FDC_window...
+java.specification.vendor=Sun Microsystems Inc.
+user.language=en
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+exe4j.unextractedPosition=1515663
+java.version=1.6.0_45
+java.ext.dirs=c:\program files (x86)\java\jre6\lib\...
+sun.boot.class.path=c:\program files (x86)\java\jre6\lib\...
+java.vendor=Sun Microsystems Inc.
+install4j.appDir=C:\Users\lenovo_pc\AppData\Local\Temp\
+file.separator=\
+java.vendor.url.bug=http://java.sun.com/cgi-bin/bugreport...
+sun.cpu.endian=little
+sun.io.unicode.encoding=UnicodeLittle
+sun.desktop=windows
+sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+m...
+[INFO] com.install4j.runtime.beans.actions.misc.RequestPrivilegesAction [ID 13]: Execute action
+       Property allRequested: false
+       Property failIfNotObtainedMac: true
+       Property failIfNotObtainedWin: true
+       Property failIfNotRootUnix: false
+       Property obtainIfAdminMac: false
+       Property obtainIfAdminWin: true
+       Property obtainIfNormalMac: false
+       Property obtainIfNormalWin: false
+       Property rollbackSupported: false
+       Variable changed: sys.adminRights=true[class java.lang.Boolean]
+       Execute action successful after 498 ms
+[INFO] com.install4j.runtime.beans.screens.StartupScreen [ID 1]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: Show screen
+       thread name AWT-EventQueue-0
+[INFO] Using communication backend com.install4j.runtime.installer.platform.win32.Win32CommunicationBackend
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 4]: Show screen
+       checking writable with maximum
+[INFO] com.install4j.runtime.beans.actions.misc.LoadResponseFileAction [ID 5]: Execute action
+       Property file: null
+       Property excludedVariables: [sys.installationDir]
+       Property rollbackSupported: true
+       Response file C:\Users\lenovo_pc\Documents\FDC\.install4j\response.varfile does not exist
+       Execute action successful after 11 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 4]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.ComponentsScreen [ID 6]: Show screen
+[INFO] com.install4j.runtime.beans.screens.ComponentsScreen [ID 6]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.StandardProgramGroupScreen [ID 7]: Show screen
+       Variable changed: sys.programGroupName=Friend's Diagnostic Center[class java.lang.String]
+       Variable changed: sys.programGroupDisabled=false[class java.lang.Boolean]
+       Variable changed: sys.programGroupAllUsers=true[class java.lang.Boolean]
+[INFO] com.install4j.runtime.beans.screens.StandardProgramGroupScreen [ID 7]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 8]: Show screen
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction [ID 9]: Execute action
+       Property checkFreeSpace: true
+       Property validateApplicationId: false
+       Property sizeCalculatorScript: null
+       Property installRuntime: true
+       Property saveDownloadedFiles: false
+       Property updateBundledJre: true
+       Property delay: false
+       Property triggerReboot: true
+       Property directoryResolverScript: null
+       Property fileFilterScript: null
+       Property showFileNames: true
+       Property rollbackSupported: true
+       Component FDC[22]; Selected: true
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\HMSP.jar; size: 2066545 bytes; exists: false
+       File options set to: [fileTime: Fri Feb 13 14:14:18 BDT 2015, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\README.TXT; size: 1320 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\antlr-2.7.6.jar; size: 443432 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\avalon-framework-impl-4.2.0.jar; size: 60725 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\barcode4j-2.0.jar; size: 256468 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\bcprov-jdk14-138.jar; size: 1551468 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\c3p0-0.9.1.jar; size: 608376 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\castor-1.2.jar; size: 858832 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\cglib-2.2.jar; size: 278682 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\commons-beanutils-1.8.2.jar; size: 231891 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\commons-collections-3.1.jar; size: 559366 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\commons-digester-1.7.jar; size: 139966 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\commons-lang3-3.1.jar; size: 315805 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\commons-logging-1.1.jar; size: 52592 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\commons.collections-3.2.1.jar; size: 582765 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\dom4j-1.6.1.jar; size: 313898 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\dynamicreports-core-3.1.3.jar; size: 1198439 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\hibernate-jpa-2.0-api-1.0.0.Final.jar; size: 100884 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\hibernate-testing.jar; size: 44490 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\hibernate3.jar; size: 4131743 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\iText-2.1.7.jar; size: 1130070 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\infinispan-core-4.2.1.CR1.jar; size: 1125855 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jackson-annotations-2.0.5.jar; size: 33527 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jackson-core-2.0.5.jar; size: 195893 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jackson-databind-2.0.5.jar; size: 850009 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jasperreports-5.0.4.jar; size: 4409625 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\javassist-3.12.0.GA.jar; size: 633312 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jbosscache-core-3.2.1.GA.jar; size: 1168922 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jcommon-1.0.15.jar; size: 309294 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jdtcore-3.1.0.jar; size: 3555707 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jfreechart-1.0.12.jar; size: 1368681 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\jta-1.1.jar; size: 10899 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\mysql-connector-java-5.1.13-bin.jar; size: 753542 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\mysql-connector-java-5.1.18-bin.jar; size: 775587 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\oscache-2.1.jar; size: 114308 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\proxool-0.8.3.jar; size: 475943 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\slf4j-api-1.6.1.jar; size: 25496 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\swarmcache-1.0RC2.jar; size: 30602 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\New Folder\lib\xml-apis-1.3.02.jar; size: 194205 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\uninstall.exe; size: 211456 bytes; exists: false
+       File options set to: [fileTime: Fri Feb 13 14:14:18 BDT 2015, mode: 700, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\inst_jre.cfg; size: 34 bytes; exists: false
+       File options set to: [fileTime: Fri Feb 13 14:15:47 BDT 2015, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\i4jruntime.jar; size: 958667 bytes; exists: false
+       File options set to: [fileTime: Fri Feb 13 14:15:47 BDT 2015, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\MessagesDefault; size: 32732 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\i4jparams.conf; size: 19201 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\stats.properties; size: 618 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\user.jar; size: 3454 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\i4jdel.exe; size: 35224 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\i4jinst.dll; size: 132608 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\i4j_extf_0_1sxf0qn.utf8; size: 32732 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\unicows.dll; size: 245408 bytes; exists: false
+       Install file: C:\Users\lenovo_pc\Documents\FDC\.install4j\_shfoldr.dll; size: 22528 bytes; exists: false
+       Execute action successful after 1398 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction [ID 10]: Execute action
+       Property linkDirectory: 
+       Property programGroupName: Friend's Diagnostic Center
+       Property allUsers: true
+       Property unixSymlinks: true
+       Property categories: Application
+       Property programGroupEntryConfigs: []
+       Property uninstallerMenuName: Friend's Diagnostic Center Uninstaller
+       Property addDefaultLauncherLinks: true
+       Property addUninstaller: true
+       Property failForSymlinksNotCreated: false
+       Property unixMenuEntries: true
+       Property rollbackSupported: true
+       Install file: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Friend's Diagnostic Center\Friend's Diagnostic Center Uninstaller.lnk; size: 1766 bytes; exists: true
+       File options set to: [fileTime: Fri Feb 13 14:15:47 BDT 2015, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Execute action successful after 58 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction [ID 11]: Execute action
+       Property icon: null
+       Property itemName: Friend's Diagnostic Center 1.0.1
+       Property persistentProperties: {}
+       Property rollbackSupported: true
+       Execute action successful after 106 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 8]: Rollback barrier reached
+       command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 12]: Show screen
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 12]: command: finish
+       cleaning up
+       Finished

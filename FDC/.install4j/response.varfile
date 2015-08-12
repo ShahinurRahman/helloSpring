@@ -1,0 +1,9 @@
+#install4j response file for Friend's Diagnostic Center 1.0.1
+#Fri Feb 13 14:15:49 BDT 2015
+sys.programGroupAllUsers$Boolean=true
+sys.component.22$Boolean=true
+sys.programGroupDisabled$Boolean=false
+sys.languageId=en
+sys.programGroupName=Friend's Diagnostic Center
+sys.adminRights$Boolean=true
+sys.installationDir=C\:\\Users\\lenovo_pc\\Documents\\FDC

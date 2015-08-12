@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fileLog>
+<createdFiles>
+<entry name="New Folder\lib\hibernate-jpa-2.0-api-1.0.0.Final.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\c3p0-0.9.1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jdtcore-3.1.0.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\dom4j-1.6.1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\mysql-connector-java-5.1.13-bin.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\commons-collections-3.1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\commons-digester-1.7.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\i4jdel.exe" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\barcode4j-2.0.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\mysql-connector-java-5.1.18-bin.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jackson-databind-2.0.5.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\xml-apis-1.3.02.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\commons-logging-1.1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\avalon-framework-impl-4.2.0.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jackson-annotations-2.0.5.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\commons-lang3-3.1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\commons-beanutils-1.8.2.jar" shared="false" uninstallMode="0"/>
+<entry name="uninstall.exe" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\dynamicreports-core-3.1.3.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\installation.log" shared="false" uninstallMode="0"/>
+<entry name="New Folder\HMSP.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\cglib-2.2.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\castor-1.2.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jasperreports-5.0.4.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\javassist-3.12.0.GA.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jta-1.1.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\response.varfile" shared="false" uninstallMode="0"/>
+<entry name=".install4j\autoUninstall.0" shared="false" uninstallMode="0"/>
+<entry name=".install4j\MessagesDefault" shared="false" uninstallMode="2"/>
+<entry name=".install4j\i4jparams.conf" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\infinispan-core-4.2.1.CR1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\README.TXT" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jfreechart-1.0.12.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\inst_jre.cfg" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jbosscache-core-3.2.1.GA.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\install.prop" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\antlr-2.7.6.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\proxool-0.8.3.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\_shfoldr.dll" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\oscache-2.1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\swarmcache-1.0RC2.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\unicows.dll" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\slf4j-api-1.6.1.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\i4jinst.dll" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\jcommon-1.0.15.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\user.jar" shared="false" uninstallMode="2"/>
+<entry name=".install4j\i4j_extf_0_1sxf0qn.utf8" shared="false" uninstallMode="2"/>
+<entry name=".install4j\i4jruntime.jar" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\commons.collections-3.2.1.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\iText-2.1.7.jar" shared="false" uninstallMode="0"/>
+<entry name="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Friend's Diagnostic Center\Friend's Diagnostic Center Uninstaller.lnk" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\hibernate3.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\bcprov-jdk14-138.jar" shared="false" uninstallMode="0"/>
+<entry name=".install4j\stats.properties" shared="false" uninstallMode="2"/>
+<entry name="New Folder\lib\hibernate-testing.jar" shared="false" uninstallMode="0"/>
+<entry name="New Folder\lib\jackson-core-2.0.5.jar" shared="false" uninstallMode="0"/>
+</createdFiles>
+<createdDirs>
+<entry name="New Folder\lib" shared="false" uninstallMode="0"/>
+<entry name="New Folder" shared="false" uninstallMode="0"/>
+<entry name=".install4j" shared="false" uninstallMode="0"/>
+<entry name="." shared="false" uninstallMode="0"/>
+</createdDirs>
+</fileLog>
